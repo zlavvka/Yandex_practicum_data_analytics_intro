@@ -1,0 +1,1 @@
+This project was completed with instructions from Yandex, according to the materials of data analytics course. It isn't sophisticated, contreversely solution structures is easy for understanding and available for using somewhere else.  
